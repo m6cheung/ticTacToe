@@ -1,0 +1,44 @@
+body {
+  background: url('https://lh3.googleusercontent.com/-LJSIuUwyQIc/UvUXnOlrq5I/AAAAAAAAAi0/9r9f4hmHz6w/s630-fcrop64=1,203337d6dfcbc828/Solid_blue_background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+#topTitle {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+.cont {
+  height: 100%;
+  width: 400px;
+  margin: 75px auto;
+  text-align: center;
+}
+
+.one, .two, .three, .three, .four, .five, .six, .seven, .eight, .nine {
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
+  height: 100px;
+  margin-left: -30px;
+  font-size: 6.5rem;
+  color: black;
+}
+
+.one, .four, .seven {
+  border-left: none;
+}
+
+.seven, .eight, .nine {
+  border-bottom: none;
+}
+
+div {
+  cursor: default;
+}
+
+.result {
+  margin-top: 70px;
+  color: black;
+  font-weight: bold;
+}
