@@ -93,7 +93,8 @@ $(document).ready(function() {
   }
   
   function impossible(arr) {
-    
+    //settings for impossible difficulty.
+    //not implemented yet.
   }
   
   function cpuPicks() {
